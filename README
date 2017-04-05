@@ -1,0 +1,4 @@
+#Use Compile.sh
+
+#Or use custom Cmake install prefix
+-> cmake ../source -DCMAKE_INSTALL_PREFIX="your install directory" -DCMAKE_BUILD_TYPE=Debug 
